@@ -39,11 +39,11 @@ SERVICE_PASSWORD=$ADMIN_PASSWORD
 
 ## First Look of HORIZON Dashboard.
 
-![OpenStack Login Page](/NimbusSentinel/images/general/login.png)
+![OpenStack Login Page](/images/general/login.png)
 <br />
 <br />
 <br />
-![OpenStack Dashboard Overview](/NimbusSentinel/images/general/openstack.png)
+![OpenStack Dashboard Overview](/images/general/openstack.png)
 
 ## Access The Ova File Here!
 
